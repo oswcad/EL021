@@ -1,5 +1,5 @@
 # EL021
-These files are (non interactive) Jupyter notebooks with embedded Matlab code. Complementary material for Calculus lectures at University of Kent; module EL021.
+These files are (non interactive) Jupyter notebooks with embedded Matlab code. 
 
 [![Binder]
 (http://mybinder.org/badge.svg)]
