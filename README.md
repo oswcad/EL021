@@ -3,4 +3,4 @@ These files are interactive Jupyter notebooks with embedded Matlab code. Complem
 
 [![Binder]
 (http://mybinder.org/badge.svg)]
-http://mybinder.org:/repo/oswcad/el021)
+http://mybinder.org/repo/oswcad/el021)
